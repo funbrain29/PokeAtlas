@@ -1,6 +1,6 @@
 # PokeAtlas, A PokeTCG API Search Tool
 
-## Live at [https://BluAtlas.github.io/PokeAtlas/](https://BluAtlas.github.io/PokeAtlas/)
+## Live at [https://funbrain29.github.io/PokeAtlas/](https://funbrain29.github.io/PokeAtlas/)
 
 A Vue.js app for searching for Pokemon cards using the [Pokemon TCG API](https://pokemontcg.io/).
 
